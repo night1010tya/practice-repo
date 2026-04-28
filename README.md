@@ -1,1 +1,1 @@
-# practice-repo
+# 演習課題
